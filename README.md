@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Android development.**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/slbs.shiv](linktr.ee/slbs.shiv)
+- 👨‍💻 All of my projects are available at [https://shivamkumar.info](slbs.shiv)
 
-- 📝 I regularly write articles on [_______](_______)
+- 📝 I regularly write articles on [https://sjhivamkumar.info](my website)
 
 - 💬 Ask me about **Python.**
 

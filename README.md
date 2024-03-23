@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **contact@shivamkumar.info**
 - 👨‍💻 All of my projects are available at **https://github.com/shiv-slbs**
-- 📝 I regularly write articles on **blog.shivamkumar.info**
-- 📄 Know about my experiences **shivamkumar.info**
+- 📝 I regularly write articles on **https://blog.shivamkumar.info**
+- 📄 Know about my experiences **https://shivamkumar.info**
 - ⚡ Fun fact **It's not a bug, It's a feature.**
 
 <div> <a href="https://twitter.com/Singh_slbs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
